@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/goit-react-hw-03-life-cicle/static/css/main.0d7e6367.chunk.css",
+    "main.js": "/goit-react-hw-03-life-cicle/static/js/main.7a4d8835.chunk.js",
+    "main.js.map": "/goit-react-hw-03-life-cicle/static/js/main.7a4d8835.chunk.js.map",
+    "runtime-main.js": "/goit-react-hw-03-life-cicle/static/js/runtime-main.63f97716.js",
+    "runtime-main.js.map": "/goit-react-hw-03-life-cicle/static/js/runtime-main.63f97716.js.map",
+    "static/js/2.7d2c7b5d.chunk.js": "/goit-react-hw-03-life-cicle/static/js/2.7d2c7b5d.chunk.js",
+    "static/js/2.7d2c7b5d.chunk.js.map": "/goit-react-hw-03-life-cicle/static/js/2.7d2c7b5d.chunk.js.map",
+    "index.html": "/goit-react-hw-03-life-cicle/index.html",
+    "static/css/main.0d7e6367.chunk.css.map": "/goit-react-hw-03-life-cicle/static/css/main.0d7e6367.chunk.css.map",
+    "static/js/2.7d2c7b5d.chunk.js.LICENSE.txt": "/goit-react-hw-03-life-cicle/static/js/2.7d2c7b5d.chunk.js.LICENSE.txt",
+    "static/media/add.b32f3a09.svg": "/goit-react-hw-03-life-cicle/static/media/add.b32f3a09.svg",
+    "static/media/delete.b5f15d8a.svg": "/goit-react-hw-03-life-cicle/static/media/delete.b5f15d8a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63f97716.js",
+    "static/js/2.7d2c7b5d.chunk.js",
+    "static/css/main.0d7e6367.chunk.css",
+    "static/js/main.7a4d8835.chunk.js"
+  ]
+}
